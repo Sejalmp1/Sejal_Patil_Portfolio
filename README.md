@@ -1,5 +1,5 @@
 ## 👩‍💻 Hi, I'm Sejal 👋
-### ** Data Engineer | Azure | Databricks | Microsoft Fabric| SQL | PySpark**
+### **Data Engineer | Azure | Databricks | Microsoft Fabric| SQL | PySpark**
 > *📍 Etobicoke, ON*
 
 <table>
