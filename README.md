@@ -93,7 +93,9 @@ Raw Sources: <br>
 ## 👩‍💻 Author
 
 **Sejal Patil** - Data Engineer (Databricks & Azure)  
-*Microsoft Certified: Fabric Data Engineer (DP-700) · Databricks Certified: Data Engineer Associate*
+* · Databricks Certified: Data Engineer Associate
+  · Microsoft Certified: Fabric Data Engineer (DP-700) 
+  · *
 
 ---
 
