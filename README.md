@@ -1,6 +1,6 @@
 ## 👩‍💻 Hi, I'm Sejal 👋
 ### **Data Engineer | Azure | Databricks | Microsoft Fabric| SQL | PySpark**
-> *📍 Etobicoke, ON*
+> *📍 Mississauga, ON*
 
 <table>
   <tr>
@@ -9,7 +9,7 @@
     </td>
     <td style="padding-left: 25px; vertical-align: middle;">
       <p>
-       I'm a Data Engineer with 3 years of experience building and supporting scalable data pipelines using Azure Databricks, PySpark, Python, and SQL. My experience includes designing end-to-end ETL/ELT workflows, implementing Medallion Architecture, and developing incremental and streaming data processing solutions with Delta Lake. <br>
+       I'm a Data Engineer with 4+ years of experience building and supporting scalable data pipelines using Azure Databricks, PySpark, Python, and SQL. My experience includes designing end-to-end ETL/ELT workflows, implementing Medallion Architecture, and developing incremental and streaming data processing solutions with Delta Lake. <br>
        </b>
       </p>
       <p>
@@ -51,7 +51,7 @@ Raw Sources: <br>
 
 ## 🔹 Projects  
 
-### 🎵 1. Azure Lakehouse: Streaming & SCD Type 2 with DLT
+### 🎵 1. MusicStream Incremental & Streaming ETL Lakehouse
 *An enterprise-grade platform handling streaming data with historical auditing.*
 
 * **Tech Stack**: 
